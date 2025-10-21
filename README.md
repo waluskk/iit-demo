@@ -6,3 +6,5 @@ I already verified my GitHub Education pack, so I am looking forward to see what
 
 ## This is my first edit in Codespaces
 This text was written and committed from GitHub Codespaces.
+
+![Codespaces view screenshot](./screenshot.png)
